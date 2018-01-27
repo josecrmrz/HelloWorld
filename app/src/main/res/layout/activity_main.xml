@@ -19,6 +19,7 @@
         android:textColor="#FFFF"
         android:layout_alignParentTop="true"
         android:textSize="36sp"
+        android:fontFamily="sans-serif-light"
         android:text="Happy Birthday, Aiden!" />
 
     <TextView
@@ -29,6 +30,7 @@
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
         android:textSize="36sp"
+        android:fontFamily="sans-serif-light"
         android:text="From Dad" />
 
 </RelativeLayout>
