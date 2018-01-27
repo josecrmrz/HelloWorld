@@ -10,7 +10,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:scaleType="centerCrop"
-        android:background="@drawable/androidparty"
+        android:src="@drawable/androidparty"
         />
 
     <TextView
@@ -34,6 +34,6 @@
         android:fontFamily="sans-serif-light"
         android:textColor="@android:color/white"
         android:layout_margin="20dp"
-        android:text="From Dad" />
+        android:text="From, Dad!" />
 
 </RelativeLayout>
